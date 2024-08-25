@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/932c17b5-e2a9-49b5-9414-5db47fd3e63e
     python app.py
    
 ## Images of Model
-![1](https://github.com/user-attachments/assets/f957b26c-b7ab-45c9-a0e8-acd905e75129)
+![1](https://github.com/rushikn/FullStackWebDevelopment/blob/84422089a477c9039e0ac1ed22a7d2b9faf5de9f/Screenshot%202024-08-26%20001726.png)
 ![2](https://github.com/user-attachments/assets/3b99cb78-1807-4faa-ab7e-5b219c8ffff0)
 ![3](https://github.com/user-attachments/assets/831e6a8c-3c7a-41da-be15-71f1137ef310)
 
